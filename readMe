@@ -1,17 +1,17 @@
 This exercise reflects the resolution of a recommender based on a competition carried out by Flow.
-With the exsercise we practised all the units learn in Data Science course by Ícaro and UNC 2022/23.
+With the exercise we practised all the units learn in Data Science course by Ícaro and UNC 2022/23.
 
-<b> Exercise </b>
-# 3rd  Recommender system
+Exercise 
+3rd  Recommender system
 
-In this installment we are going to work with a recommendation system.
+In this exercise we are going to work with a recommendation system.
 
 We are going to take advantage of the Telecom competition that we saw since the data is real and it is good to practice.
 
 In the following repository you can find the meaning of each column of the data sets:
-https://github.com/Datathon2021/Recommender
+https://github.com/Datathon2021/Recommender 
 
-Luggage:
+Work in:
 
 - Divide set into train and test. Take the data until March 1, 2021 as a train. From March 1 onwards, reserve for testing.
 - Develop a recommender. The recommender must be able to generate recommendations for ALL users (including cold starts that will not have views on the trainset). Generate 20 recommendations per user.
