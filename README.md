@@ -24,3 +24,5 @@ Recommendations:
 - There is a column that tells us until when the content will be available
 - The column **end_vod_date**: "end date of the availability of the asset on the platform" can be very useful. Does it make sense to recommend something that is not going to be available in the test set? (as of March 1, 2021).
 - Starting with something SIMPLE. Not all columns in the data set are satisfied. They won't need to use all of them, many columns can be dropped depending on the approach they take.
+
+Note: In the repo are the csv to make the recommds
