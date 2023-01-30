@@ -206,3 +206,6 @@ for pred, label in df_map[["ideal", "recomms"]].values:
 
 MAP = np.mean(aps)
 print(f'mean average precision = {round(MAP, 5)}')
+
+# This line I used to know the names of the contents, I promiss I will improved and create a function 
+#data[(data['content_id'] == number of content)].head(1)
